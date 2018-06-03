@@ -1,0 +1,10 @@
+# EOS Genesis Final Snapshot
+
+## sha256 hash of the files
+
+```console
+3721cd8d98753b60974af2156bc6372f16924be7e1c856a68c43f3cac5199fe1  distribution.csv
+6df61f12f96f89c907fac14a021d788c9e77098952a6c5494c7999d2e79d0a35  snapshot.csv
+a2b5e31f3902fc989a8b5157a0a625548ce872ddc4d009eda4c8bc3f9691c755  snapshot.json
+9376d4329e8e71d82703f6a7ed2545fa92a4c4a515d946204c16fc425c2fb5c5  snapshot_unregistered.csv
+```
